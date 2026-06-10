@@ -79,7 +79,7 @@ The calculator uses a single `Calculator` class that manages:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Kartik-YT/NeoCalc.git
+   git clone https://github.com/TheBuildLab/NeoCalc.git
    ```
 
 2. Navigate to the project directory:
@@ -95,7 +95,7 @@ MIT License - feel free to use this project for personal or commercial purposes.
 
 ## Author
 
-Kartik-YT
+TheBuildLab
 
 ---
 
